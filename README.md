@@ -1,2 +1,4 @@
 # Battleship
-My implementation of the classic game `Battleship`
+Education project: implementation battleship game.
+Team:
+1. Kanumone
